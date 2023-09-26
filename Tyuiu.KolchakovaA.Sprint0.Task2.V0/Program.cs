@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.KolchakovaA.Sprint0.Task0.V0.Lib;
+using Tyuiu.KolchakovaA.Sprint0.Task2.V0.Lib;
 
-namespace Tyuiu.KolchakovaA.Sprint0.Task0.V0
+namespace Tyuiu.KolchakovaA.Sprint0.Task2.V0
 {
     class Program
     {
@@ -17,6 +17,7 @@ namespace Tyuiu.KolchakovaA.Sprint0.Task0.V0
             Console.WriteLine(DataService.GetMessage("Амира"));
             Console.ReadKey();
             Console.ReadKey();
+
         }
     }
 }
