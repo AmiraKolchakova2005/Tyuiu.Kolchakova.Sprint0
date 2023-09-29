@@ -12,7 +12,7 @@ namespace Tyuiu.KolchakovaA.Sprint0.Task6.V0
     {
         static void Main(string[] args)
         {
-           int[] numArray = new int[] { 1, 2, 3, 4, 5, };
+            int[] numArray = new int[] { 1, 2, 3, 4, 5, };
 
             //Пример циклической структуры находитя в библиотеке классов в методе AdditionArray
             Console.WriteLine("Сумма элементов массива = " + DataService.AdditionArray(numArray));
